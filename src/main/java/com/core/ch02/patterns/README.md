@@ -5,7 +5,6 @@ The Gang of Four (GoF) design patterns, introduced in the book "Design Patterns:
 ## Creational Patterns
 
 ---
-
 ### 1. Abstract Factory
 Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 
@@ -75,7 +74,6 @@ public class Singleton {
 ## Structural Patterns
 
 ---
-
 ### 6. Adapter
 Converts the interface of a class into another interface clients expect. It allows classes to work together that couldn't otherwise because of incompatible interfaces.
 
@@ -121,7 +119,6 @@ Provides a surrogate or placeholder for another object to control access to it.
 ## Behavioral Patterns
 
 ---
-
 ### 13. Chain of Responsibility
 Passes a request along a chain of handlers. Each handler either processes the request or passes it to the next handler in the chain.
 
