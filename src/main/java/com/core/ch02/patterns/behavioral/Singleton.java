@@ -1,4 +1,4 @@
-package com.core.ch02.patterns.classes;
+package com.core.ch02.patterns.behavioral;
 
 public class Singleton {
 	

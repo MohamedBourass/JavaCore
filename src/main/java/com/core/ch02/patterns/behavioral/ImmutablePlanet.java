@@ -1,4 +1,4 @@
-package com.core.ch02.patterns.classes;
+package com.core.ch02.patterns.behavioral;
 
 import java.util.Date;
 //Immutable class => all private members + give methods to access attributes
