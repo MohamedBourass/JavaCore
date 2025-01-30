@@ -12,6 +12,7 @@ import java.util.Queue;
 import java.util.Set;
 import java.util.concurrent.ArrayBlockingQueue;
 
+
 public class _Collection {
 	
 	public static int maxify(int[] arr) {
