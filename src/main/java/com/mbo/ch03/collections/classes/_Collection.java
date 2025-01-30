@@ -28,6 +28,7 @@ public class _Collection {
 		}
 		return max;
 	}
+
 	
 	public static int random_1_5() {
 		long l = System.currentTimeMillis();

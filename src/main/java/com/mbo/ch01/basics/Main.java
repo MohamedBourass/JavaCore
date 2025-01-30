@@ -8,20 +8,21 @@ import com.mbo.ch01.basics.classes.Outer.Inner;
 
 
 public class Main {
-	// POO principles
+	// every class in Java is a subclass of object (The class Object contains the methods equals, hashcode, toString(), getClass())
+	// POO principles => 4 (encapsulation, abstraction, heritage, polymorphism)
 	//---------------
 	// Encapsulation: tight encapsulation loose coupling, high cohesion (keep instance variables private or protected, make public accessors, etc.
 	// Polymorphism: Java allows multiple type of objects to be passed to a single method or class
-	// every class in Java is a subclass of object
 	// the scopes are public, private, protected and default
 	// package is the default scope (...)
-	// only one public class per source code file ==> check me!
+	// only one public class per source code file ==> check me! because this is not the case in Outer!
 	// a final class cannot be inherited
 	// an interface is a contract , its methods are implicitly public and abstract
 	// all variables defined in an interface must be public, static and final
 	// interface methods cannot be static
 	// if there is a method "abstract" in a class, this class must be declared as "abstract"
-	// a method cannot be "abstract" and "final", "abstract" and "private" or "abstract" and "static"
+	// a method cannot be "abstract" and "final", "abstract" and "private
+	// " or "abstract" and "static"
 	// "synchronized" is applied only to method and indicated a method can be accessed by only one thread at a time
 	// a constructor cannot have a return type
 	// a constructor cannot be static, final or abstract
