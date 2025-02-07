@@ -1,4 +1,4 @@
-package com.core.ch01.basics.classes;
+package com.core.ch01_classesobjects.classes;
 
 public interface Fly {
 

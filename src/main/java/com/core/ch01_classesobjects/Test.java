@@ -1,4 +1,4 @@
-package com.core.ch01.basics;
+package com.core.ch01_classesobjects;
 
 public class Test {
 

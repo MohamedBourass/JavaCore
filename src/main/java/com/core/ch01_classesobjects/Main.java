@@ -1,10 +1,10 @@
-package com.core.ch01.basics;
+package com.core.ch01_classesobjects;
 
-import com.core.ch01.basics.classes.AnonInner;
-import com.core.ch01.basics.classes.Lion;
-import com.core.ch01.basics.classes.Outer;
-import com.core.ch01.basics.classes.Season;
-import com.core.ch01.basics.classes.Outer.Inner;
+import com.core.ch01_classesobjects.classes.AnonInner;
+import com.core.ch01_classesobjects.classes.Lion;
+import com.core.ch01_classesobjects.classes.Outer;
+import com.core.ch01_classesobjects.classes.Season;
+import com.core.ch01_classesobjects.classes.Outer.Inner;
 
 
 public class Main {

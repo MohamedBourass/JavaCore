@@ -20,33 +20,6 @@ public class Dates {
 2025-01-30T19:05:44.304005200+01:00[Europe/Paris]
 ```
 
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terminal Noir</title>
-    <style>
-        pre {
-            background-color: black;
-            color: white;
-            padding: 10px;
-            border-radius: 5px;
-            font-family: monospace;
-        }
-    </style>
-</head>
-<body>
-
-<pre>
-2025-01-30
-19:05:44.304005200
-2025-01-30T19:05:44.304005200
-2025-01-30T19:05:44.304005200+01:00[Europe/Paris]
-</pre>
-
-</body>
-</html>
 
 ```java
 public class Dates {
