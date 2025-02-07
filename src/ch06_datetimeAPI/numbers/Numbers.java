@@ -1,4 +1,4 @@
-package ch06_datetimeAPI;
+package ch06_datetimeAPI.numbers;
 
 import java.text.NumberFormat;
 import java.text.ParseException;

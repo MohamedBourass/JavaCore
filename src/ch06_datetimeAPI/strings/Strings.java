@@ -1,4 +1,4 @@
-package ch06_datetimeAPI;
+package ch06_datetimeAPI.strings;
 
 import java.util.Locale;
 

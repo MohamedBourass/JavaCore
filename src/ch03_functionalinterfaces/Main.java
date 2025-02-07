@@ -2,6 +2,7 @@ package ch03_functionalinterfaces;
 
 import ch03_functionalinterfaces.classes.Animal;
 import ch03_functionalinterfaces.classes.CheckTrait;
+import ch03_functionalinterfaces.classes.Tiger;
 
 public class Main {
 	
@@ -13,8 +14,8 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
-		//Tiger t = new Tiger();
-		//t.sprint(t);
+		Tiger t = new Tiger("Tiger", true, true);
+		t.sprint(t);
 		print(new Animal("fish", false, true), a->a.canHop());
 		print(new Animal("fish", false, true), a->a.canSwim());
 		print(new Animal("kangaroo", true, false), a->a.canHop());

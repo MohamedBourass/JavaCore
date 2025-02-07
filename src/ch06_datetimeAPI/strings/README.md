@@ -1,0 +1,17 @@
+```shell
+123
+33
+5
+e
+4
+3
+CD
+1bcde
+false
+true
+6
+5
+3
+001
+fr_FR
+```
