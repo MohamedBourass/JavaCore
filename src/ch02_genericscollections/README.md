@@ -1,4 +1,4 @@
-# # Chapter 2 - Generics and Collections
+# Chapter 2 - Generics and Collections
 
 ## Collection
 - A collection is a group of objects contained in a single object

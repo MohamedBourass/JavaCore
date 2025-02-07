@@ -1,6 +1,6 @@
 # Chapter 1 - Classes and objects
 
-## 4 Principles of Object Oriented Programming (OOP)
+## The 4 Principles of Object Oriented Programming (OOP)
 ### Abstraction
 Abstraction is to turn real world objects, properties, and behaviors into a computational representation.
 
