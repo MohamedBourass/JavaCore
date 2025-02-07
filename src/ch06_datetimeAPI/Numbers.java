@@ -1,4 +1,4 @@
-package ch06_datetimeAPI.numbers;
+package ch06_datetimeAPI;
 
 import java.text.NumberFormat;
 import java.text.ParseException;
@@ -32,3 +32,15 @@ public class Numbers {
 		System.out.println(NumberFormat.getInstance(Locale.US).parse(s));
 	}
 }
+/**
+ *
+ * 266666
+ * 266,666
+ * 266.666
+ * 266,666
+ * 48,00 €
+ * $48.00
+ * 40
+ * 40.45
+ *
+ */

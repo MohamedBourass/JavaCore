@@ -1,4 +1,4 @@
-package ch06_datetimeAPI.strings;
+package ch06_datetimeAPI;
 
 import java.util.Locale;
 
@@ -34,3 +34,21 @@ public class Strings {
 		System.out.println(locale); //fr_FR
 	}
 }
+
+/**
+ * 123
+ * 33
+ * 5
+ * e
+ * 4
+ * 3
+ * CD
+ * 1bcde
+ * false
+ * true
+ * 6
+ * 5
+ * 3
+ * 001
+ * fr_FR
+ */
