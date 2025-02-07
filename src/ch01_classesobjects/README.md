@@ -1,4 +1,4 @@
-# Java Basics
+# Chapter 1 - Classes and objects
 
 ## 4 Principles of Object Oriented Programming (OOP)
 ### Abstraction
